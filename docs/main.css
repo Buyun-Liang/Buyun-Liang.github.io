@@ -203,6 +203,7 @@ h1, h2, h3 {
 	padding-top: 0.5em;
 	border-bottom: 0.7px solid #e1e4e8;
 	font-weight: 400;
+	color: #7a0019;
 }
 
 h1 {
@@ -262,7 +263,7 @@ div#footer a {
 }
 
 div#footer a:hover {
-	color: #ea4aaa;
+	color: #ffde7a;
 }
 
 div#footer-text {
