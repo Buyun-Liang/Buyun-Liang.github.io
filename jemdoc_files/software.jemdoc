@@ -20,3 +20,18 @@ scalable QP solver and improved core algorithms.
 PyGRANSO is available at the [https://github.com/sun-umn/PyGRANSO GitHub] repository under the MIT license, 
 along with a [https://sun-umn.github.io/PyGRANSO-Documentation/ documentation] website.
 
+= Update Logs
+v1.1.0-alpha: Cleaned code, added L-BFGS, updated tutorials and documentation.
+
+v1.0.2-alpha: Update installation guide for Linux and windows users
+
+v1.0.1-alpha: Update contirbutions, limitations and acknowledgement sections in docs.
+
+v1.0.0-alpha: Initial release of pygranso. Main features: Python translation, autodifferentiation, GPU-support with PyTorch, matrix/tensor inputs, more powerful solver and several new settings to avoid numerical issues in deep learning problem.
+
+= Acknowledgements
+Buyun Liang was supported by the [https://research.umn.edu/units/umii UMII Seed Grant Program].
+
+= Contact
+
+Codes written by [https://buyun-liang.github.io/ Buyun Liang]. Questions or bug reports please send email to [liang664@umn.edu liang664@umn.edu].
