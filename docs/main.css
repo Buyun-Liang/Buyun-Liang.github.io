@@ -131,25 +131,25 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #0366d6;
+	color: #7a0019;
 	text-decoration: none;
 }
 
 a:hover, a:hover > tt{
 	/*border-bottom: 1.25px #0366d6 dashed;*/
-	color: #ea4aaa;
+	color: #ffcc33;
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #586069;
+	color: #5b0013;
 	font-weight: 600;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #0366d6;
+	color: #7a0019;
 	text-decoration: none;
 }
 #layout-menu a:hover {
-	color: #ea4aaa;
+	color: #ffcc33;
 	text-decoration: none;
 }
 
