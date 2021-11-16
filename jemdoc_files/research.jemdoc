@@ -1,0 +1,59 @@
+# jemdoc: menu{MENU}{research.html}
+
+= Research Experience
+
+== PyGRANSO: a User-Friendly and Scalable Software for Non-Smooth, Non-Convex, Constrained Optimization in Machine/\Deep Learning
+
+May 2021 - Present | Advisor: [https://sunju.org/ Prof. Ju Sun] 
+
+Optimization for nonconvex, nonsmooth, and constrained problems is an essential part of machine 
+learning and deep learning, which is hard to reliably solve without optimization expertise, and 
+also outpace what existing convex optimization software packages can handle. GRANSO is the first 
+numerical optimization package that can handle these problems but exist some limitations such as 
+lack of auto-differentiation and GPU acceleration that preclude the potential broad deployment by general users.
+
+PyGRANSO is python numerical package revamped and translated from the original GRANSO package. 
+In order to lower the barriers to general users and solve modern machine\/deep learning problem, 
+we introduced several main features including auto-differentiation, GPU acceleration, tensor input, 
+scalable QP solver and improved core algorithms. 
+
+*[https://github.com/sun-umn/PyGRANSO Software] | [https://sun-umn.github.io/PyGRANSO-Documentation/ Documentation]*
+
+~~~
+{}{img_left}{./images/PyGRANSO_logo.png}{profile pic}{100%}{}{}
+~~~
+
+== Robustness of Deep Learning in MRI Reconstruction 
+
+Sep 2020 - Jan 2021 | Advisor: [https://sunju.org/ Prof. Ju Sun] 
+
+Improved the stability of U-NET model on MRI reconstruction with adversarial training.
+
+* [https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction Source] | 
+[https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction/blob/main/Final_Report.pdf Report] *
+
+~~~
+{}{img_left}{./images/mri.png}{profile pic}{100%}{}{}
+~~~
+
+== Probing Nitrogen effect on Bubbly Water Systems by Molecular Dynamics Simulations 
+
+Jan 2019 - Aug 2020 | Advisor: [https://cse.umn.edu/chem/j-ilja-siepmann Prof. J. Ilja Siepmann]
+
+Numerical results and visualizations for equilibrium properties of bubbly water and for 
+bubble collapse dynamics obtained from Monte Carlo and molecular dynamics simulations for 
+coarse-grained water and nitrogen models.
+
+
+J. L. Chen, *B. Liang*, Y. Z. S. Sun, M. Bhatt, C. Knight, K. Mahesh J. I. Siepmann, 
+2021, Large-scale molecular dynamics simulations of bubble collapse in water: Effects of 
+system size, water model, and nitrogen, Journal of Chemical Physics, To be submitted.
+
+J. I. Siepmann, J. L. Chen, *B. Liang*, K. Mahesh, 2020, 
+[./files/33SNH_027-Siepmann.pdf Effect of Non-Condensable Gas on the Thermophysical Properties of Bubbly Water and 
+on Bubble Collapse Dynamics Probed by Molecular Simulations], 
+33rd Symposium on Naval Hydrodynamics, Osaka, Japan
+
+~~~
+{}{img_left}{./images/bubbly.png}{profile pic}{100%}{}{}
+~~~

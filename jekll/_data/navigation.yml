@@ -1,0 +1,36 @@
+# main links links
+main:
+
+  # - title: "Research Experience"
+  #   url: /research/
+
+
+  # - title: "Research Experience"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+
+  - title: "Welcome"
+    url: /
+
+  - title: "Research Experience"
+    url: /research/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "Miscellaneous"
+    url: /misc/

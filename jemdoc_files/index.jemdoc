@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{./images/buyun_photo.png}{profile pic}{200px}{200px}{}
+= Buyun Liang 
+M.S. Student\n
+[https://cse.umn.edu/cs Department of Computer Science & Engineering]\n
+[https://twin-cities.umn.edu/ University of Minnesota, Twin Cities]\n
+Minneapolis, MN, 55455\n
+
+*Contact:* 
+[liang664@umn.edu Email], [https://github.com/Buyun-Liang GitHub], [https://www.linkedin.com/in/buyun-liang/ LinkedIn]
+~~~
+
+I am a M.S. student in the [https://cse.umn.edu/cs Department of Computer Science & Engineering] at the 
+[https://twin-cities.umn.edu/ University of Minnesota, Twin Cities]. 
+I am also worked as a graduate research assistant in [https://sunju.org/ Prof. Ju Sun]'s group.
+
+Prior to this, I obtained my first M.S. degree in Materials Science at the University of Minnesota, 
+where I worked as a research assistant in [http://siepmann.chem.umn.edu/ Prof. J. Ilja Siepmann]'s
+ computational chemistry group.
+
+Research Interests: numerical optimization in machine\/deep learning, machine\/deep learning in healthcare and medical settings.
+
+
+== News
+\[Nov 9, 2021\] [https://github.com/sun-umn/PyGRANSO PyGRANSO] v1.1.0-alpha released, 
+which is a User-Friendly and Scalable Software for Non-Convex Optimization in Machine Learning. 
+Check the [https://sun-umn.github.io/PyGRANSO-Documentation/ documentation page] for more information.
+
+\[May 25, 2021\] I am funded by the [https://research.umn.edu/units/umii U of M Informatics Institute (UMII) Seed Grant Program] 
+to revamp the [http://www.timmitchell.com/software/GRANSO/ GRANSO] package into a user-friendly, scalable numerical optimization package.
