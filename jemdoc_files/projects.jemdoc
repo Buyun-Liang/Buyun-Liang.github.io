@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{projects.html}
 = Projects
 
+~~~
+{}{img_left}{./images/2d_torus.png}{}{150px}{}{}
 * Parrallel Distributed 2D Torus Random Walk | C, MPI *
 
 Mar 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Parrallel-Distributed-2D-Torus-Random-Walk GitHub] 
@@ -8,8 +10,10 @@ Mar 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Parrallel-Distributed-2D-T
 [https://en.wikipedia.org/wiki/Random_walk random walk] on a 2-D Cartesian torus
 - Applied MPI\_Send and MPI\_Recv to allow ghost cell transition between processors
 - Conducted the performance analysis about speed-up, efficiency and scalability
+~~~
 
-
+~~~
+{}{img_left}{./images/h2r_logo.png}{}{150px}{}{}
 * UI Design for Android App: Help Me Relax | Java, SQLite *
 
 Feb 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Android-App-UI-Design-HelpMeRelax GitHub] |
@@ -18,14 +22,21 @@ Feb 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Android-App-UI-Design-Help
 - Implemented the Android UI which allows the user to navigate all post sessions and communicate through posts and replies
 - Developed a dynamic UI by using Navigation Drawer and a vertically-scrollable collection of views by using ListView
 - Designed the post sessions and reply sessions which could perform CRUD operations by using SQLite as local storage
+~~~
 
+~~~
+{}{img_left}{./images/k_means.png}{}{150px}{}{}
 * Parrallel Distributed K-Means Algorithm | C, MPI *
 
 Feb 2021 - Mar 2021 | [https://github.com/Buyun-Liang/Parallel-Distributed-K-Means-Algorithm GitHub] 
 - Designed a parallel distributed version of the sequential K-means algorithm to partition the 2016 US pollution data
 - Utilized MPI Allreduce to combine the local cluster information and distributes the result back to all processes
 - Applied MPI Bcast to broadcast the updated centroids from the root process to all other processes
+~~~
 
+
+~~~
+{}{img_left}{./images/s_exp.png}{}{150px}{}{}
 * Evaluator for Integer and Symbolic Expression | Standard ML, Scheme, C, Prolog *
 
 Oct 2020 - Dec 2020 | [https://github.com/Buyun-Liang/Evaluator-for-Integer-and-Symbolic-Expression GitHub]
@@ -33,7 +44,10 @@ Oct 2020 - Dec 2020 | [https://github.com/Buyun-Liang/Evaluator-for-Integer-and-
 - Designed naive compilers to print the translation of expression in the standard output
 - Built a Scheme evaluator for S-expressions based on McCarthy’s work Recursive Functions of Symbolic Expressions
 - Implemented a mini-Prolog evaluator to handle the encoding of S-expressions from Scheme
+~~~
 
+~~~
+{}{img_left}{./images/chat2.png}{}{150px}{}{}
 * Multi-Client Chat Service | C *
 
 Jul 2020 - Aug 2020 | [https://github.com/Buyun-Liang/Multi-Client-Chat-Service GitHub]
@@ -41,10 +55,15 @@ Jul 2020 - Aug 2020 | [https://github.com/Buyun-Liang/Multi-Client-Chat-Service 
 - Implemented a server program which manages the interactions among clients and achieve input multiplexing
 - Applied signal handling for graceful server shutdown and applied alarm signals to add period pinging to the service
 - Designed multiple threads to handle the to-client (received information) and to-server (typed input) messages
+~~~
 
+~~~
+{}{img_left}{./images/commando1.png}{}{150px}{}{}
 * Going Commando: Quasi-Command Line Shell | C *
 
 Jun 2020 - Jul 2020 | [https://github.com/Buyun-Liang/Quasi-Command-Line-Shell GitHub]
 - Developed a shell to allow users to effectively operate and control machine using simple, interactive methods
 - Achieved system calls like process control, file management and communication to achieve shell task managements
 - Utilized memory tool Valgrind for memory debugging to prevent memory leaking
+~~~
+

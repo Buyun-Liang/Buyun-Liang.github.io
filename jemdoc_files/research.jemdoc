@@ -20,7 +20,7 @@ scalable QP solver and improved core algorithms.
 *[https://github.com/sun-umn/PyGRANSO Software] | [https://sun-umn.github.io/PyGRANSO-Documentation/ Documentation]*
 
 ~~~
-{}{img_left}{./images/PyGRANSO_logo.png}{PyGRANSO}{100%}{}{}
+{}{img_left}{./images/PyGRANSO_logo.png}{PyGRANSO}{50%}{}{}
 ~~~
 
 == Robustness of Deep Learning in MRI Reconstruction 
@@ -33,7 +33,7 @@ Improved the stability of U-NET model on MRI reconstruction with adversarial tra
 [https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction/blob/main/Final_Report.pdf Report] *
 
 ~~~
-{}{img_left}{./images/mri.png}{MRI}{100%}{}{}
+{}{img_left}{./images/mri.png}{MRI}{50%}{}{}
 ~~~
 
 == Probing Nitrogen effect on Bubbly Water Systems by Molecular Dynamics Simulations 
@@ -55,5 +55,5 @@ on Bubble Collapse Dynamics Probed by Molecular Simulations],
 33rd Symposium on Naval Hydrodynamics, Osaka, Japan. 
 
 ~~~
-{}{img_left}{./images/bubbly.png}{Bubbly Water}{100%}{}{}
+{}{img_left}{./images/bubbly.png}{Bubbly Water}{50%}{}{}
 ~~~
