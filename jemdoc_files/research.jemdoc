@@ -44,15 +44,16 @@ Numerical results and visualizations for equilibrium properties of bubbly water 
 bubble collapse dynamics obtained from Monte Carlo and molecular dynamics simulations for 
 coarse-grained water and nitrogen models.
 
+*Publications:*
 
-J. L. Chen, *B. Liang*, Y. Z. S. Sun, M. Bhatt, C. Knight, K. Mahesh J. I. Siepmann, 
+/J. L. Chen, *B. Liang*, Y. Z. S. Sun, M. Bhatt, C. Knight, K. Mahesh J. I. Siepmann, 
 2021, Large-scale molecular dynamics simulations of bubble collapse in water: Effects of 
-system size, water model, and nitrogen, Journal of Chemical Physics, To be submitted.
+system size, water model, and nitrogen, Journal of Chemical Physics, To be submitted./
 
-J. I. Siepmann, J. L. Chen, *B. Liang*, K. Mahesh, 2020, 
+/J. I. Siepmann, J. L. Chen, *B. Liang*, K. Mahesh, 2020, 
 [./files/33SNH_027-Siepmann.pdf Effect of Non-Condensable Gas on the Thermophysical Properties of Bubbly Water and 
 on Bubble Collapse Dynamics Probed by Molecular Simulations], 
-33rd Symposium on Naval Hydrodynamics, Osaka, Japan. 
+33rd Symposium on Naval Hydrodynamics, Osaka, Japan. /
 
 ~~~
 {}{img_left}{./images/bubbly.png}{Bubbly Water}{50%}{}{}
