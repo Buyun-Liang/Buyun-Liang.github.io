@@ -2,7 +2,9 @@
 
 = Research Experience
 
-== PyGRANSO: a User-Friendly and Scalable Software for Non-Smooth, Non-Convex, Constrained Optimization in Machine/\Deep Learning
+== NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning.
+
+
 
 May 2021 - Present | Advisor: [https://sunju.org/ Prof. Ju Sun] 
 
@@ -12,16 +14,18 @@ also outpace what existing convex optimization software packages can handle. GRA
 numerical optimization package that can handle these problems but exist some limitations such as 
 lack of auto-differentiation and GPU acceleration that preclude the potential broad deployment by general users.
 
-PyGRANSO is python numerical package revamped and translated from the original GRANSO package. 
+NCVX is python numerical package revamped and translated from the original GRANSO package. 
 In order to lower the barriers to general users and solve modern machine\/deep learning problem, 
 we introduced several main features including auto-differentiation, GPU acceleration, tensor input, 
 scalable QP solver and improved core algorithms. 
 
-*[https://github.com/sun-umn/PyGRANSO Software] | [https://sun-umn.github.io/PyGRANSO-Documentation/ Documentation]*
+*[https://github.com/sun-umn/NCVX Software] | [https://ncvx.org Documentation]*
 
 ~~~
-{}{img_left}{./images/PyGRANSO_logo.png}{PyGRANSO}{50%}{}{}
+{}{raw}
+<center><a href='https://ncvx.org'  title='NCVX'><img src='./images/ncvx_logo.png'> </a> </center></br>
 ~~~
+
 
 == Robustness of Deep Learning in MRI Reconstruction 
 
