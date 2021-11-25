@@ -463,7 +463,7 @@ table + table {
 
 
 div#text-img-container {
-	overflow: hidden;
+	/* overflow: hidden; */
 	padding: 0;
 	margin: 0;
 	margin-bottom: 20px;
@@ -476,7 +476,7 @@ div#img-container {
 }
 
 div#text-container {
-	overflow: hidden;
+	/* overflow: hidden; */
 	padding-top: 0px;
 }
 

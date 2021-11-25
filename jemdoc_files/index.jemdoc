@@ -8,7 +8,7 @@
 {}{raw}
 <div id="text-img-container"><div id="img-container">
 <img src="./images/buyun_photo.png" alt="Buyun Liang" width="200px" height="200px" /></div>
-<div id="text-container"><h1>Buyun Liang </h1>
+<div id="text-container"><h1>Buyun Liang (梁步云) </h1>
 <p>M.S. Student<br />
 <a href="https://cse.umn.edu/cs" target=&ldquo;blank&rdquo;>Department of Computer Science &amp; Engineering</a><br />
 <a href="https://twin-cities.umn.edu/" target=&ldquo;blank&rdquo;>University of Minnesota, Twin Cities</a><br />
@@ -32,8 +32,15 @@ Minneapolis, MN, 55455<br /></p>
 ~~~
 
 I am a M.S. student in the [https://cse.umn.edu/cs Department of Computer Science & Engineering] at the 
-[https://twin-cities.umn.edu/ University of Minnesota, Twin Cities], 
-worked as a graduate research assistant in [https://sunju.org/ Prof. Ju Sun]'s group.
+[https://twin-cities.umn.edu/ University of Minnesota, Twin Cities], also
+work as a graduate research assistant in [https://sunju.org/ Prof. Ju Sun]'s group.
+
+Broadly, my research is about *optimization in machine\/deep learning* and *machine\/deep learning in vision*.
+
+Specifically, I am interested in:
+    . User-friendly and scalable software for nonconvex optimization in machine/deep learning. 
+    . Deep Learning with deterministic and stochastic constraints.
+    . Learning in distributed and collaborative environments.
 
 Prior to this, I obtained my first M.S. degree in [https://cse.umn.edu/cems Materials Science] at the 
 [https://twin-cities.umn.edu/ University of Minnesota, Twin Cities], and my B.S. degree from the 
@@ -42,7 +49,7 @@ Prior to this, I obtained my first M.S. degree in [https://cse.umn.edu/cems Mate
 Before joining [https://sunju.org/ Prof. Ju Sun]'s group, I worked as a research assistant in [http://siepmann.chem.umn.edu/ Prof. J. Ilja Siepmann]'s
  computational chemistry group.
 
-* Research Interests:* optimization in machine\/deep learning, machine\/deep learning in vision and healthcare.
+
 
 
 == Updates
