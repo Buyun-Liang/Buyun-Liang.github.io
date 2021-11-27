@@ -62,7 +62,7 @@ kind.
 
 \[Nov 9, 2021\] [https://github.com/sun-umn/NCVX NCVX] v1.1.0 released, 
 which is a User-Friendly and Scalable Software for Non-Convex Optimization in Machine Learning. 
-Check the [https://sun-umn.github.io/NCVX-Documentation/ documentation page] for more information.
+Check the [https://ncvx.org/ documentation page] for more information.
 
 \[May 25, 2021\] I am funded by the [https://research.umn.edu/units/umii U of M Informatics Institute (UMII) Seed Grant Program] 
 to revamp the [http://www.timmitchell.com/software/GRANSO/ GRANSO] package into a user-friendly, scalable numerical optimization package. 

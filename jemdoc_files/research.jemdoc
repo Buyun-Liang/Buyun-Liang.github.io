@@ -3,6 +3,28 @@
 = Research Experience
 
 ~~~
+{}{img_left}{./images/research/imagenet-c.png}{}{200px}{}{}
+*[research.html Neural Network Robustness to Common Corruptions and Perturbations]*
+
+*Image credit: [https://arxiv.org/abs/1903.12261 ImageNet-C]*
+
+Ongoing Research Project, Nov 2021 - Present
+
+Improve the optimization methods and focus on the natural robustness evaluation. Solve minimax optimization by using NCVX package.
+
+~~~
+
+~~~
+{}{img_left}{./images/research/perceptual.png}{}{200px}{}{}
+*[research.html A General Method for Constrained Deep Learning]*
+
+Ongoing Research Project, Nov 2021 - Present
+
+Solve orthogonal constraints deep learning and neural perceptual attack problems by using NCVX package.
+~~~
+
+
+~~~
 {}{img_left}{./images/research/ncvx_logo_sq2.png}{}{200px}{}{}
 *[./files/NCVX_arxiv.pdf NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning]*
 
