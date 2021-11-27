@@ -2,7 +2,7 @@
 = Projects
 
 ~~~
-{}{img_left}{./images/2d_torus.png}{}{150px}{}{}
+{}{img_left}{./images/projects/2d_torus.png}{}{150px}{}{}
 * Parrallel Distributed 2D Torus Random Walk | C, MPI *
 
 Mar 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Parrallel-Distributed-2D-Torus-Random-Walk GitHub] 
@@ -13,7 +13,7 @@ Mar 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Parrallel-Distributed-2D-T
 ~~~
 
 ~~~
-{}{img_left}{./images/h2r_logo.png}{}{150px}{}{}
+{}{img_left}{./images/projects/h2r_logo.png}{}{150px}{}{}
 * UI Design for Android App: Help Me Relax | Java, SQLite *
 
 Feb 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Android-App-UI-Design-HelpMeRelax GitHub] |
@@ -25,7 +25,7 @@ Feb 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Android-App-UI-Design-Help
 ~~~
 
 ~~~
-{}{img_left}{./images/k_means.png}{}{150px}{}{}
+{}{img_left}{./images/projects/k_means.png}{}{150px}{}{}
 * Parrallel Distributed K-Means Algorithm | C, MPI *
 
 Feb 2021 - Mar 2021 | [https://github.com/Buyun-Liang/Parallel-Distributed-K-Means-Algorithm GitHub] 
@@ -36,7 +36,7 @@ Feb 2021 - Mar 2021 | [https://github.com/Buyun-Liang/Parallel-Distributed-K-Mea
 
 
 ~~~
-{}{img_left}{./images/s_exp.png}{}{150px}{}{}
+{}{img_left}{./images/projects/s_exp.png}{}{150px}{}{}
 * Evaluator for Integer and Symbolic Expression | Standard ML, Scheme, C, Prolog *
 
 Oct 2020 - Dec 2020 | [https://github.com/Buyun-Liang/Evaluator-for-Integer-and-Symbolic-Expression GitHub]
@@ -47,7 +47,7 @@ Oct 2020 - Dec 2020 | [https://github.com/Buyun-Liang/Evaluator-for-Integer-and-
 ~~~
 
 ~~~
-{}{img_left}{./images/chat2.png}{}{150px}{}{}
+{}{img_left}{./images/projects/chat2.png}{}{150px}{}{}
 * Multi-Client Chat Service | C *
 
 Jul 2020 - Aug 2020 | [https://github.com/Buyun-Liang/Multi-Client-Chat-Service GitHub]
@@ -58,7 +58,7 @@ Jul 2020 - Aug 2020 | [https://github.com/Buyun-Liang/Multi-Client-Chat-Service 
 ~~~
 
 ~~~
-{}{img_left}{./images/commando1.png}{}{150px}{}{}
+{}{img_left}{./images/projects/commando1.png}{}{150px}{}{}
 * Going Commando: Quasi-Command Line Shell | C *
 
 Jun 2020 - Jul 2020 | [https://github.com/Buyun-Liang/Quasi-Command-Line-Shell GitHub]

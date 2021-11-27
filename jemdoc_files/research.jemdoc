@@ -2,63 +2,36 @@
 
 = Research Experience
 
-== NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning.
-
-
-
-May 2021 - Present | Advisor: [https://sunju.org/ Prof. Ju Sun] 
-
-Optimization for nonconvex problems, especially those nonsmooth and with constraints, is an essential 
-part of machine learning and deep learning, which is hard to reliably solve without optimization expertise. 
-Also existing general purpose non-convex optimization software packages usually cannot handle non-smoothness 
-and require analytical gradients, which raised the technical barrier for general users. GRANSO is the first 
-numerical optimization package that can handle this type of problems. However, it has some limitations such 
-as lack of auto-differentiation and GPU acceleration, which preclude the potential broad deployment by general 
-users. Thus, we introduce NCVX (NonConVeX), a user-friendly and scalable python package for NCVX optimization, 
-which is revamped and translated from the GRANSO package. In order to lower the barriers to general users and 
-solve modern machine/deep learning problems, we introduce several main features including auto-differentiation, 
-GPU acceleration, tensor input, scalable QP solver and open-source dependencies.
-
-*[https://github.com/sun-umn/NCVX Software] | [https://ncvx.org Documentation]*
-
 ~~~
-{}{raw}
-<center><a href='https://ncvx.org'  title='NCVX'><img src='./images/ncvx_logo.png'> </a> </center></br>
+{}{img_left}{./images/research/ncvx_logo_sq2.png}{}{200px}{}{}
+*[./files/NCVX_arxiv.pdf NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning]*
+
+*Buyun Liang*, Ju Sun. arXiv Preprint arXiv:XXXX.XXXXX (2021). Submitted to Journal of Machine Learning Research (JMLR), Nov 2021.
+
+*[./files/NCVX_arxiv.pdf Paper Link] | [https://github.com/sun-umn/NCVX Software] | [https://ncvx.org Documentation Page] *
 ~~~
 
 
-== Robustness of Deep Learning in MRI Reconstruction 
-
-Sep 2020 - Jan 2021 | Advisor: [https://sunju.org/ Prof. Ju Sun] 
-
-Improved the stability of U-NET model on MRI reconstruction with adversarial training.
-
-* [https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction Source] | 
-[https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction/blob/main/Final_Report.pdf Report] *
-
 ~~~
-{}{img_left}{./images/mri.png}{MRI}{50%}{}{}
+{}{img_left}{./images/research/mri_sq.png}{}{200px}{}{}
+*[https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction Robustness of Deep Learning in MRI Reconstruction]*
+
+CSCI 8980 Think Deep Learning Course Project, Fall 2020
+
+* [https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction Source Code] | 
+[https://github.com/Buyun-Liang/Robustness-of-Deep-Learning-in-MRI-Reconstruction/blob/main/Final_Report.pdf Report Link] *
 ~~~
 
-== Probing Nitrogen effect on Bubbly Water Systems by Molecular Dynamics Simulations 
-
-Jan 2019 - Aug 2020 | Advisor: [https://cse.umn.edu/chem/j-ilja-siepmann Prof. J. Ilja Siepmann]
-
-Numerical results and visualizations for equilibrium properties of bubbly water and for 
-bubble collapse dynamics obtained from Monte Carlo and molecular dynamics simulations for 
-coarse-grained water and nitrogen models.
-
-*Publications:*
-
-/J. L. Chen, *B. Liang*, Y. Z. S. Sun, M. Bhatt, C. Knight, K. Mahesh J. I. Siepmann, 
-2021, Large-scale molecular dynamics simulations of bubble collapse in water: Effects of 
-system size, water model, and nitrogen, Journal of Chemical Physics, To be submitted./
-
-/J. I. Siepmann, J. L. Chen, *B. Liang*, K. Mahesh, 2020, 
-[./files/33SNH_027-Siepmann.pdf Effect of Non-Condensable Gas on the Thermophysical Properties of Bubbly Water and 
-on Bubble Collapse Dynamics Probed by Molecular Simulations], 
-33rd Symposium on Naval Hydrodynamics, Osaka, Japan. /
 
 ~~~
-{}{img_left}{./images/bubbly.png}{Bubbly Water}{50%}{}{}
+{}{img_left}{./images/research/bubbly_sq.png}{}{200px}{}{}
+*[./files/33SNH_027-Siepmann.pdf Effect of Non-Condensable Gas on the Thermophysical Properties of Bubbly Water and 
+on Bubble Collapse Dynamics Probed by Molecular Simulations]*
+
+J. I. Siepmann, J. L. Chen, *B. Liang*, K. Mahesh, 2020. 33rd Symposium on Naval Hydrodynamics, Osaka, Japan.
+
+* [./files/33SNH_027-Siepmann.pdf Paper Link] *
 ~~~
+
+
+

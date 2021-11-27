@@ -7,7 +7,7 @@
 ~~~
 {}{raw}
 <div id="text-img-container"><div id="img-container">
-<img src="./images/buyun_photo.png" alt="Buyun Liang" width="200px" height="200px" /></div>
+<img src="./images/home/buyun_photo.png" alt="Buyun Liang" width="200px" height="200px" /></div>
 <div id="text-container"><h1>Buyun Liang (梁步云) </h1>
 <p>M.S. Student<br />
 <a href="https://cse.umn.edu/cs" target=&ldquo;blank&rdquo;>Department of Computer Science &amp; Engineering</a><br />
@@ -17,18 +17,18 @@ Minneapolis, MN, 55455<br /></p>
 <p>
 
 <a href='mailto:liang664@umn.edu'  title='Email'>
-<img src="./images/gmail.png" width="30px" height="30px"> </a> 
+<img src="./images/home/gmail.png" width="30px" height="30px"> </a> 
 
 <a href='https://github.com/Buyun-Liang'  title='GitHub'>
-<img src="./images/github1.png" width="30px" height="30px"> </a> 
+<img src="./images/home/github1.png" width="30px" height="30px"> </a> 
 
 
 
 <a href='https://www.linkedin.com/in/buyun-liang'  title='LinkedIn'>
-<img src="./images/linkedin.png" width="30px" height="30px"> </a>
+<img src="./images/home/linkedin.png" width="30px" height="30px"> </a>
 
 <a href='https://buyunliang.org'  title='Personal Page'>
-<img src="./images/homepage1.jpg" width="30px" height="30px"> </a></p></div></div>
+<img src="./images/home/homepage1.jpg" width="30px" height="30px"> </a></p></div></div>
 ~~~
 
 I am a M.S. student in the [https://cse.umn.edu/cs Department of Computer Science & Engineering] at the 
@@ -53,9 +53,16 @@ Before joining [https://sunju.org/ Prof. Ju Sun]'s group, I worked as a research
 
 
 == Updates
-\[Nov 9, 2021\] [https://github.com/sun-umn/PyGRANSO PyGRANSO] v1.1.0-alpha released, 
+\[Nov 27, 2021\] Proud to release our paper [./files/NCVX_arxiv.pdf NCVX: A User-Friendly and Scalable Package for Nonconvex
+Optimization in Machine Learning] on arXiv! To lower the technical barrier for the machine 
+learning community, we developed the NCVX package featuring auto-differentiation, GPU
+acceleration, tensor input, scalable QP solver, and zero dependency on proprietary packages. 
+As a highlight, NCVX can solve general CSTR deep learning problems, the first of its
+kind.
+
+\[Nov 9, 2021\] [https://github.com/sun-umn/NCVX NCVX] v1.1.0 released, 
 which is a User-Friendly and Scalable Software for Non-Convex Optimization in Machine Learning. 
-Check the [https://sun-umn.github.io/PyGRANSO-Documentation/ documentation page] for more information.
+Check the [https://sun-umn.github.io/NCVX-Documentation/ documentation page] for more information.
 
 \[May 25, 2021\] I am funded by the [https://research.umn.edu/units/umii U of M Informatics Institute (UMII) Seed Grant Program] 
 to revamp the [http://www.timmitchell.com/software/GRANSO/ GRANSO] package into a user-friendly, scalable numerical optimization package. 

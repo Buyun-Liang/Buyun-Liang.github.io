@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="icon" href="./images/barbell_icon.png">
+<link rel="icon" href="./images/home/barbell_icon.png">
 <link rel="stylesheet" href="main.css" type="text/css" />
 <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 <!--- <title></title> --->
@@ -26,7 +26,7 @@ MathJax.Hub.Config({
 <div id="header">
 <div id="header-icon-text-container">
 <div id="header-icon-container" >
-<a href="index.html"><img src="./images/barbell_icon.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
+<a href="index.html"><img src="./images/home/barbell_icon.png" alt="" style="width: 100%; height: 100%; position: center; padding:0px; margin: 0px;"></a>
 </div>
 <div id="header-text-container">
 <a href="index.html">Buyun Liang</a>
@@ -51,35 +51,37 @@ MathJax.Hub.Config({
 <div id="layout-content-container">
 <div id="layout-content">
 <h1>Software Introduction</h1>
-<p>Optimization for nonconvex problems, especially those nonsmooth and with constraints, 
-is an essential part of machine learning and deep learning, which is hard to reliably 
-solve without optimization expertise. Also existing general purpose non-convex optimization 
-software packages usually cannot handle non-smoothness and require analytical gradients, which 
-raised the technical barrier for general users. GRANSO is the first numerical optimization package 
-that can handle this type of problems. However, it has some limitations such as lack of auto-differentiation 
-and GPU acceleration, which preclude the potential broad deployment by general users. Thus, we introduce 
-NCVX (NonConVeX), a user-friendly and scalable python package for NCVX optimization, which is revamped and 
-translated from the GRANSO package. In order to lower the barriers to general users and solve modern machine/deep 
-learning problems, we introduce several main features including auto-differentiation, GPU acceleration, tensor input, 
-scalable QP solver and open-source dependencies.</p>
+<p>Optimizing nonconvex (NCVX) problems, especially those nonsmooth and constrained, is an 
+essential part of machine learning and deep learning. But it is
+hard to reliably solve this type of problems without optimization expertise. Existing
+general-purpose NCVX optimization packages are powerful, but typically cannot handle
+nonsmoothness. GRANSO is among the first packages targeting NCVX, nonsmooth, constrained problems. 
+However, it has several limitations such as the lack of auto-differentiation and GPU
+acceleration, which preclude the potential broad deployment by non-experts. To lower
+the technical barrier for the machine learning community, we revamp GRANSO into a user-friendly 
+and scalable python package named NCVX, featuring auto-differentiation, GPU
+acceleration, tensor input, scalable QP solver, and zero dependency on proprietary packages. 
+As a highlight, NCVX can solve general CSTR deep learning problems, the first of its
+kind. </p>
 <p>NCVX is available at the <a href="https://github.com/sun-umn/NCVX" target=&ldquo;blank&rdquo;>GitHub</a> repository under the MIT license, 
-along with a <a href="https://ncvx.org" target=&ldquo;blank&rdquo;>documentation</a> website.</p>
-<center><a href='https://ncvx.org'  title='NCVX'><img src='./images/ncvx_logo.png'> </a> </center></br>
+along with a <a href="https://ncvx.org" target=&ldquo;blank&rdquo;>documentation</a> website and numerous
+examples from machine learning and other fields.</p>
+<center><a href='https://ncvx.org'  title='NCVX'><img src='./images/software/ncvx_logo.png' width=500> </a> </center></br>
 <h1>Update Logs</h1>
-<p>v1.1.1-alpha: Rename the package from “PyGRANSO” to “NCVX”; multiple examples added: unconstrained DL, feasibility problem, sphere manifold.</p>
-<p>v1.1.0-alpha: Cleaned code, added L-BFGS, updated tutorials and documentation.</p>
-<p>v1.0.2-alpha: Update installation guide for Linux and windows users. </p>
-<p>v1.0.1-alpha: Update contirbutions, limitations and acknowledgement sections in docs.</p>
-<p>v1.0.0-alpha: Initial release of PyGRANSO. Main features: Python translation, autodifferentiation, GPU-support with PyTorch, matrix/tensor inputs, more powerful solver and several new settings to avoid numerical issues in deep learning problem.</p>
+<p>v1.1.1: Multiple examples added: unconstrained DL, feasibility problem, sphere manifold.</p>
+<p>v1.1.0: L-BFGS Added.</p>
+<p>v1.0.0: Initial release of NCVX. Main features: auto-differentiation, GPU
+acceleration, tensor input, scalable QP solver, and zero dependency on proprietary packages.</p>
 <h1>Acknowledgements</h1>
-<p>Buyun Liang was supported by the <a href="https://research.umn.edu/units/umii" target=&ldquo;blank&rdquo;>UMII Seed Grant Program</a>. </p>
+<p>We would like to thank the GRANSO developers. This work was supported by UMII Seed
+Grant Program and NSF CMMI 2038403.</p>
 <h1>Contact</h1>
 <p>Codes written by <a href="https://buyunliang.org/" target=&ldquo;blank&rdquo;>Buyun Liang</a>. Questions or bug reports please send email to <a href="mailto:liang664@umn.edu" target=&ldquo;blank&rdquo;>liang664@umn.edu</a>.</p>
 </div> <!-- <div id="layout-content"> -->
 <div id="footer-container">
 <div id="footer">
 <div id="footer-text">
-Last edited  on November 25<sup>th</sup> 2021  10:12AM (Time Zone: CST). </br>
+Last edited  on November 27<sup>th</sup> 2021  04:52PM (Time Zone: CST). </br>
 © Copyright 2021 Buyun Liang. Powered by <a href="https://github.com/szl2/jemdoc-new-design" target="blank">jemdoc + new design</a>.
 </div> <!-- <div id="footer-text"> -->
 </div> <!-- <div id="footer"> -->
