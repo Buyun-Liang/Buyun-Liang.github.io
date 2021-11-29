@@ -21,7 +21,7 @@ examples from machine learning and other fields.
 
 ~~~
 {}{raw}
-<center><a href='https://ncvx.org'  title='NCVX'><img src='./images/software/ncvx_logo.png' width=500> </a> </center></br>
+<center><a href='https://ncvx.org'  title='NCVX'><img src='./images/software/NCVX_logo_banner.png' width=500> </a> </center></br>
 ~~~
 
 = Update Logs
@@ -35,6 +35,12 @@ acceleration, tensor input, scalable QP solver, and zero dependency on proprieta
 = Acknowledgements
 We would like to thank the GRANSO developers. This work was supported by UMII Seed
 Grant Program and NSF CMMI 2038403.
+
+~~~
+{}{raw}
+<center><img src='./images/software/umn_nsf.png' width=300></center></br>
+~~~
+
 
 = Contact
 
