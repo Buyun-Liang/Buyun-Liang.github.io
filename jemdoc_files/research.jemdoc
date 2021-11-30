@@ -26,11 +26,11 @@ Solve orthogonal constraints deep learning and neural perceptual attack problems
 
 ~~~
 {}{img_left}{./images/research/NCVX_logo.png}{}{200px}{}{}
-*[./files/NCVX_arxiv.pdf NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning]*
+*[https://arxiv.org/abs/2111.13984 NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning]*
 
 *Buyun Liang*, Ju Sun. arXiv Preprint arXiv:XXXX.XXXXX (2021). Submitted to Journal of Machine Learning Research (JMLR), Nov 2021.
 
-*[./files/NCVX_arxiv.pdf Paper Link] | [https://github.com/sun-umn/NCVX Software] | [https://ncvx.org Documentation Page] *
+*[https://arxiv.org/abs/2111.13984 Paper Link] | [https://github.com/sun-umn/NCVX Software] | [https://ncvx.org Documentation Page] *
 ~~~
 
 

@@ -53,14 +53,9 @@ Before joining [https://sunju.org/ Prof. Ju Sun]'s group, I worked as a research
 
 
 == Updates
-\[Nov 29, 2021\] [https://github.com/sun-umn/NCVX NCVX] v1.1.1 released. Check the [https://ncvx.org/ documentation page] and [https://github.com/sun-umn/NCVX GitHub repo] for more information.
+\[Nov 29, 2021\] Proud to release our paper [https://arxiv.org/abs/2111.13984 NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning] on arXiv! [https://ncvx.org/ NCVX] is the initial translation and revamping of the [http://www.timmitchell.com/software/GRANSO/ GRANSO package], with convenient features such as auto-differentiation and GPU support. In particular, NCVX can be used to solve constrained deep learning problems.
 
-\[Nov 27, 2021\] Proud to release our paper [./files/NCVX_arxiv.pdf NCVX: A User-Friendly and Scalable Package for Nonconvex
-Optimization in Machine Learning] on arXiv! To lower the technical barrier for the machine 
-learning community, we developed the NCVX package featuring auto-differentiation, GPU
-acceleration, tensor input, scalable QP solver, and zero dependency on proprietary packages. 
-As a highlight, NCVX can solve general constrained deep learning problems, the first of its
-kind.
+\[Nov 28, 2021\] [https://github.com/sun-umn/NCVX NCVX] v1.1.1 released. Check the [https://ncvx.org/ documentation page] and [https://github.com/sun-umn/NCVX GitHub repo] for more information.
 
 \[May 25, 2021\] I am funded by the [https://research.umn.edu/units/umii U of M Informatics Institute (UMII) Seed Grant Program] 
 to revamp the [http://www.timmitchell.com/software/GRANSO/ GRANSO] package into a user-friendly, scalable numerical optimization package. 
