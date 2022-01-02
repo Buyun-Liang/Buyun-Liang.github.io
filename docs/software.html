@@ -50,51 +50,17 @@ MathJax.Hub.Config({
 </div> <!-- <div id="layout-menu-container"> -->
 <div id="layout-content-container">
 <div id="layout-content">
-<h1>Software Introduction</h1>
-<p>Optimizing nonconvex (NCVX) problems, especially those nonsmooth and constrained, is an 
-essential part of machine learning and deep learning. But it is
-hard to reliably solve this type of problems without optimization expertise. Existing
-general-purpose NCVX optimization packages are powerful, but typically cannot handle
-nonsmoothness. GRANSO is among the first packages targeting NCVX, nonsmooth, constrained problems. 
-However, it has several limitations such as the lack of auto-differentiation and GPU
-acceleration, which preclude the potential broad deployment by non-experts. To lower
-the technical barrier for the machine learning community, we revamp GRANSO into a user-friendly 
-and scalable python package named NCVX, featuring auto-differentiation, GPU
-acceleration, tensor input, scalable QP solver, and zero dependency on proprietary packages. 
-As a highlight, NCVX can solve general CSTR deep learning problems, the first of its
-kind. </p>
-<p>NCVX is available at the <a href="https://github.com/sun-umn/NCVX" target=&ldquo;blank&rdquo;>GitHub</a> repository under the MIT license, 
-along with a <a href="https://ncvx.org" target=&ldquo;blank&rdquo;>documentation</a> website and numerous
-examples from machine learning and other fields.</p>
+<h1>Introduction</h1>
+<p><b>NCVX</b> (NonConVeX) is a user-friendly and scalable python software package targeting general nonsmooth NCVX problems with nonsmooth constraints. <b>NCVX</b> is being developed by GLOVEX at the Department of Computer Science &amp; Engineering, University of Minnesota, Twin Cities.</p>
+<p>The initial release of <b>NCVX</b> contains the solver <b>PyGRANSO</b>, a PyTorch-enabled port of GRANSO incorporating auto-differentiation, GPU acceleration, tensor input, and support for new QP solvers. As a highlight, <b>PyGRANSO</b> can solve deep learning problems with nontrivial constraints (e.g., constraints with neural networks), the first of its kind.</p>
 <center><a href='https://ncvx.org'  title='NCVX'><img src='./images/software/NCVX_logo_banner.png' width=500> </a> </center></br>
-<h1>Update Logs</h1>
-<p>v1.1.1: Multiple examples added: unconstrained DL, feasibility problem, sphere manifold.</p>
-<p>v1.1.0: L-BFGS Added.</p>
-<p>v1.0.0: Initial release of NCVX. Main features: auto-differentiation, GPU
-acceleration, tensor input, scalable QP solver, and zero dependency on proprietary packages.</p>
-<h1>Acknowledgements</h1>
-<p>We would like to thank the GRANSO developers. This work was supported by UMII Seed
-Grant Program and NSF CMMI 2038403.</p>
-<center><img src='./images/software/umn_nsf.png' width=300></center></br>
-<h1>Citation</h1>
-<div class="infoblock">
-<div class="blockcontent">
-<p> @article{liang2021ncvx, 
-<br> &emsp;&emsp; title={NCVX: A User-Friendly and Scalable Package for Nonconvex Optimization in Machine Learning}, 
-<br> &emsp;&emsp;    author={Buyun Liang and Ju Sun}, 
-<br> &emsp;&emsp;    year={2021}, 
-<br> &emsp;&emsp;    eprint={2111.13984}, 
-<br> &emsp;&emsp;    archivePrefix={arXiv}, 
-<br> &emsp;&emsp;    primaryClass={cs.LG} 
-<br>} </p>
-</div></div>
-<h1>Contact</h1>
-<p>Codes written by <a href="https://buyunliang.org/" target=&ldquo;blank&rdquo;>Buyun Liang</a>. Questions or bug reports please send email to <a href="mailto:liang664@umn.edu" target=&ldquo;blank&rdquo;>liang664@umn.edu</a>.</p>
+<h1>Solver/Module</h1>
+<p><b>PyGRANSO</b>: A PyTorch-enabled port of GRANSO with auto-differentiation <a href="https://ncvx.org/PyGRANSO" target=&ldquo;blank&rdquo;>Documentation</a> | <a href="https://github.com/sun-umn/PyGRANSO" target=&ldquo;blank&rdquo;>Repository</a></p>
 </div> <!-- <div id="layout-content"> -->
 <div id="footer-container">
 <div id="footer">
 <div id="footer-text">
-Last edited  on December 23<sup>rd</sup> 2021  09:26AM (Time Zone: CST). </br>
+Last edited  on January 2<sup>nd</sup> 2022  01:21PM (Time Zone: CST). </br>
 © Copyright 2021 Buyun Liang. Powered by <a href="https://github.com/szl2/jemdoc-new-design" target="blank">jemdoc + new design</a>.
 </div> <!-- <div id="footer-text"> -->
 </div> <!-- <div id="footer"> -->
