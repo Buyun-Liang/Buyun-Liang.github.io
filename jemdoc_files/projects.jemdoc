@@ -3,9 +3,9 @@
 
 ~~~
 {}{img_left}{./images/projects/2d_torus.png}{}{150px}{}{}
-* Parrallel Distributed 2D Torus Random Walk | C, MPI *
+* Parallel Distributed 2D Torus Random Walk | C, MPI *
 
-Mar 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Parrallel-Distributed-2D-Torus-Random-Walk GitHub] 
+Mar 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Parallel-Distributed-2D-Torus-Random-Walk GitHub] 
 - Implemented a parallel version of a Markov chain simulation to allow a one particle system perform
 [https://en.wikipedia.org/wiki/Random_walk random walk] on a 2-D Cartesian torus
 - Applied MPI\_Send and MPI\_Recv to allow ghost cell transition between processors
@@ -26,7 +26,7 @@ Feb 2021 - Apr 2021 | [https://github.com/Buyun-Liang/Android-App-UI-Design-Help
 
 ~~~
 {}{img_left}{./images/projects/k_means.png}{}{150px}{}{}
-* Parrallel Distributed K-Means Algorithm | C, MPI *
+* Parallel Distributed K-Means Algorithm | C, MPI *
 
 Feb 2021 - Mar 2021 | [https://github.com/Buyun-Liang/Parallel-Distributed-K-Means-Algorithm GitHub] 
 - Designed a parallel distributed version of the sequential K-means algorithm to partition the 2016 US pollution data
