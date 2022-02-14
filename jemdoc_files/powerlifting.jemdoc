@@ -1,17 +1,32 @@
 # jemdoc: menu{MENU}{powerlifting.html}
 
 = Powerlifting
-I stopped training for 16 months (Mar 2020 - Jun 2021) due to pandemic. Now I am perparing my next powerlifting meet: 
+I stopped training for 16 months (Mar 2020 - Jun 2021) due to pandemic. After this long break, I had my third powerlifting meet: 
 
-*[https://feedback.facebook.com/events/3028487980754657/ 2022 USA Powerlifting Minnesota Junior, Open & Master State Championships]*
+*[https://feedback.facebook.com/events/3028487980754657/ 2022 USA Powerlifting Minnesota Junior, Open & Master State Championships]~ \[[https://www.instagram.com/stories/buyun_liang/2772808870004853091/ Video]\]*
 \n February 12, 2022 | Champlin, MN 
 
 ~~~
 {}{raw}
-<center><a href='https://feedback.facebook.com/events/3028487980754657/'  title='USAPL'><img src='./images/USAPL_logo.png' width=300> </a> </center></br>
+<center><img src='./images/powerlifting/USAPL_logo.png' width=260> <img src='./images/powerlifting/USAPL_photo.png' width=260> <img src='./images/powerlifting/USAPL_SQ.png' width=260>  </center></br>
 ~~~
 
+*Body Weight:* 76.35 kg (168.3 lbs)
+
+*Squat* \n
+1st: 142.5 kg (314.2 lbs) ✓✓✓ ~~~~~~ 2nd: 155 kg (341.7 lbs) ✓✓× ~~~~~~~~ 3rd: 157.5 kg (347.2 lbs) ✓✓× 
+
+*Bench Press* \n
+1st: 100 kg (220.5 lbs) ✓✓✓ ~~~~~~~~~ 2nd: 105 kg (231.5 lbs) ✓✓✓ ~~~~~~~~ 3rd: 110 kg (242.5 lbs) ××× (No lift)
+
+*Deadlift* \n
+1st: 162.5 kg (358.3 lbs) ✓✓✓ ~~~~~~ 2nd: 172.5 kg (380.3 lbs) ✓✓✓ ~~~~ 3rd: 180 kg (396.8 lbs) ✓✓✓ \n
+
+*Total:* 442.5 kg (975.5 lbs) 
+
 == Training Programs
+
+Feb 2022 - Present: [https://docs.google.com/spreadsheets/d/1DmSx148-e5QeZGJQtcPlV4iGQNO8DSRI/edit?usp=sharing&ouid=111376657830977953295&rtpof=true&sd=true Modified DUP] (Credit: [https://www.youtube.com/watch?v=KYO290nkMu8&t=2s Brendan Tietz])
 
 Jan 2022 - Feb 2022: [https://docs.google.com/spreadsheets/d/1NLG5euphDxAia7pYuEZvM1SY2xxvcdM3/edit?usp=sharing&ouid=111376657830977953295&rtpof=true&sd=true Modified 6-week DUP Sub-Max Powerlifting Program] | [https://docs.google.com/document/d/1mMqWKVJBoyNPfQwWkYBl3KpHrO5juG5QNga0U9F8xMU/edit?usp=sharing TRAINGIN LOG]
 (Credit: [https://www.youtube.com/watch?v=KYO290nkMu8&t=2s Brendan Tietz], [https://docs.google.com/spreadsheets/d/1n0gvlLr-SzcTG4L5nW8Ui2ECX0TKhzgl/edit?usp=sharing&ouid=111376657830977953295&rtpof=true&sd=true DUP Sub-Max Powerlifting Program])
@@ -40,10 +55,10 @@ Below are a list of powerlifitng meets tutorials that I found helpful:
 
 - [https://docs.google.com/document/d/1rdGqHoA1iSywxd0Ka_EQ1Ikn5d9qGHmyVO-Mwty2ULY/edit?usp=sharing Tutorials from PowerliftingTechnique.com]
 
-== Powerlifting Meets
+== Powerlifting Meets before 2021
 
 ~~~
-{}{img_left}{./images/raisethebar.png}{}{350px}{}{}
+{}{img_left}{./images/powerlifting/raisethebar.png}{}{350px}{}{}
 * Raise the Bar: Powerlifting \[[https://drive.google.com/file/d/14v8Kd07zrAYzeRn-_7P0cc3TeunUdOa9/view?usp=sharing Video]\]*\n
 Oct 13, 2018 | Minneapolis, MN 
 
@@ -62,7 +77,7 @@ Oct 13, 2018 | Minneapolis, MN
 ~~~
 
 ~~~
-{}{img_left}{./images/HTPL.png}{}{350px}{}{}
+{}{img_left}{./images/powerlifting/HTPL.png}{}{350px}{}{}
 * Han Tang Powerlifting (汉唐杯第四届大陆健力纪录赛) \[[https://drive.google.com/file/d/1ANn1O8G1qS2obKSl3OSEuqebkEyhh-cd/view?usp=sharing Video]\]*\n
 Apr 21, 2018 | Qufu, Shandong, China
 
