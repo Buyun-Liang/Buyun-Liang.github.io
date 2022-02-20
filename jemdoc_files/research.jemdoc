@@ -16,11 +16,11 @@ Improve the optimization methods and focus on the natural robustness evaluation.
 
 ~~~
 {}{img_left}{./images/research/perceptual.png}{}{200px}{}{}
-*[research.html A General Method for Constrained Deep Learning]*
+*[research.html PyGRANSO for Constrained Deep Learning]*
 
 Ongoing Research Project, Nov 2021 - Present
 
-Solve orthogonal constraints deep learning and neural perceptual attack problems by using NCVX package.
+Solve several constrained machine/deep learning problems by using NCVX package.
 ~~~
 
 
